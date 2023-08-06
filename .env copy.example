@@ -1,6 +1,6 @@
-APP_NAME=employee
+APP_NAME=Laravel
 APP_ENV=local
-APP_KEY=base64:tGckmDvOS9WBqcg4lhdCVXQ2SX0trV2ftaBG4YQJWJs=
+APP_KEY=
 APP_DEBUG=true
 APP_URL=http://localhost
 
@@ -11,7 +11,7 @@ LOG_LEVEL=debug
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=laravel-employee
+DB_DATABASE=laravel
 DB_USERNAME=root
 DB_PASSWORD=
 
